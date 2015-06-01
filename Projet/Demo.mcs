@@ -1,0 +1,163 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=D:\SM57_CADORET_FELLAH\Projet\A_to_D_Converter.o
+Folder=Intermediary
+DeviceName=dsPIC30F4011
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|C:\Program Files\Microchip\xc16\v1.11\src\libm||$(INCDIR)|C:\Program Files\Microchip\xc16\v1.11\inc||$(LIBDIR)|C:\Program Files\Microchip\xc16\v1.11\lib||$(LKRDIR)||
+SOLK=<src>|A_to_D_Converter.c|Delay.s|DisplayRoutines.c|INTx_IO_pins.c|SPI_for_LCD.c|Timers.c|traps.c|UART.c|Main.c|Can.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=
+[File001]
+Location=D:\SM57_CADORET_FELLAH\Projet\Delay.o
+Folder=Intermediary
+DeviceName=dsPIC30F4011
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={DE18EB1A-B46B-486B-B96F-A811A635DFAC}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-as.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|C:\Program Files\Microchip\xc16\v1.11\src\libm||$(INCDIR)|C:\Program Files\Microchip\xc16\v1.11\inc||$(LIBDIR)|C:\Program Files\Microchip\xc16\v1.11\lib||$(LKRDIR)||
+SOLK=<src>|A_to_D_Converter.c|Delay.s|DisplayRoutines.c|INTx_IO_pins.c|SPI_for_LCD.c|Timers.c|traps.c|UART.c|Main.c|Can.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g
+TraceCmdString=
+DebugOptions=
+[File002]
+Location=D:\SM57_CADORET_FELLAH\Projet\DisplayRoutines.o
+Folder=Intermediary
+DeviceName=dsPIC30F4011
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|C:\Program Files\Microchip\xc16\v1.11\src\libm||$(INCDIR)|C:\Program Files\Microchip\xc16\v1.11\inc||$(LIBDIR)|C:\Program Files\Microchip\xc16\v1.11\lib||$(LKRDIR)||
+SOLK=<src>|A_to_D_Converter.c|Delay.s|DisplayRoutines.c|INTx_IO_pins.c|SPI_for_LCD.c|Timers.c|traps.c|UART.c|Main.c|Can.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=
+[File003]
+Location=D:\SM57_CADORET_FELLAH\Projet\INTx_IO_pins.o
+Folder=Intermediary
+DeviceName=dsPIC30F4011
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|C:\Program Files\Microchip\xc16\v1.11\src\libm||$(INCDIR)|C:\Program Files\Microchip\xc16\v1.11\inc||$(LIBDIR)|C:\Program Files\Microchip\xc16\v1.11\lib||$(LKRDIR)||
+SOLK=<src>|A_to_D_Converter.c|Delay.s|DisplayRoutines.c|INTx_IO_pins.c|SPI_for_LCD.c|Timers.c|traps.c|UART.c|Main.c|Can.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=
+[File004]
+Location=D:\SM57_CADORET_FELLAH\Projet\SPI_for_LCD.o
+Folder=Intermediary
+DeviceName=dsPIC30F4011
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|C:\Program Files\Microchip\xc16\v1.11\src\libm||$(INCDIR)|C:\Program Files\Microchip\xc16\v1.11\inc||$(LIBDIR)|C:\Program Files\Microchip\xc16\v1.11\lib||$(LKRDIR)||
+SOLK=<src>|A_to_D_Converter.c|Delay.s|DisplayRoutines.c|INTx_IO_pins.c|SPI_for_LCD.c|Timers.c|traps.c|UART.c|Main.c|Can.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=
+[File005]
+Location=D:\SM57_CADORET_FELLAH\Projet\Timers.o
+Folder=Intermediary
+DeviceName=dsPIC30F4011
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|C:\Program Files\Microchip\xc16\v1.11\src\libm||$(INCDIR)|C:\Program Files\Microchip\xc16\v1.11\inc||$(LIBDIR)|C:\Program Files\Microchip\xc16\v1.11\lib||$(LKRDIR)||
+SOLK=<src>|A_to_D_Converter.c|Delay.s|DisplayRoutines.c|INTx_IO_pins.c|SPI_for_LCD.c|Timers.c|traps.c|UART.c|Main.c|Can.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=
+[File006]
+Location=D:\SM57_CADORET_FELLAH\Projet\traps.o
+Folder=Intermediary
+DeviceName=dsPIC30F4011
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|C:\Program Files\Microchip\xc16\v1.11\src\libm||$(INCDIR)|C:\Program Files\Microchip\xc16\v1.11\inc||$(LIBDIR)|C:\Program Files\Microchip\xc16\v1.11\lib||$(LKRDIR)||
+SOLK=<src>|A_to_D_Converter.c|Delay.s|DisplayRoutines.c|INTx_IO_pins.c|SPI_for_LCD.c|Timers.c|traps.c|UART.c|Main.c|Can.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=
+[File007]
+Location=D:\SM57_CADORET_FELLAH\Projet\UART.o
+Folder=Intermediary
+DeviceName=dsPIC30F4011
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|C:\Program Files\Microchip\xc16\v1.11\src\libm||$(INCDIR)|C:\Program Files\Microchip\xc16\v1.11\inc||$(LIBDIR)|C:\Program Files\Microchip\xc16\v1.11\lib||$(LKRDIR)||
+SOLK=<src>|A_to_D_Converter.c|Delay.s|DisplayRoutines.c|INTx_IO_pins.c|SPI_for_LCD.c|Timers.c|traps.c|UART.c|Main.c|Can.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=
+[File008]
+Location=D:\SM57_CADORET_FELLAH\Projet\Main.o
+Folder=Intermediary
+DeviceName=dsPIC30F4011
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|C:\Program Files\Microchip\xc16\v1.11\src\libm||$(INCDIR)|C:\Program Files\Microchip\xc16\v1.11\inc||$(LIBDIR)|C:\Program Files\Microchip\xc16\v1.11\lib||$(LKRDIR)||
+SOLK=<src>|A_to_D_Converter.c|Delay.s|DisplayRoutines.c|INTx_IO_pins.c|SPI_for_LCD.c|Timers.c|traps.c|UART.c|Main.c|Can.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=
+[File009]
+Location=D:\SM57_CADORET_FELLAH\Projet\Can.o
+Folder=Intermediary
+DeviceName=dsPIC30F4011
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={069BD372-6CA0-40D4-BF2F-5DC806D05083}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|C:\Program Files\Microchip\xc16\v1.11\src\libm||$(INCDIR)|C:\Program Files\Microchip\xc16\v1.11\inc||$(LIBDIR)|C:\Program Files\Microchip\xc16\v1.11\lib||$(LKRDIR)||
+SOLK=<src>|A_to_D_Converter.c|Delay.s|DisplayRoutines.c|INTx_IO_pins.c|SPI_for_LCD.c|Timers.c|traps.c|UART.c|Main.c|Can.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-g -Wall
+TraceCmdString=
+DebugOptions=
+[File010]
+Location=D:\SM57_CADORET_FELLAH\Projet\Demo.cof
+Folder=Output
+DeviceName=dsPIC30F4011
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|C:\Program Files\Microchip\xc16\v1.11\src\libm||$(INCDIR)|C:\Program Files\Microchip\xc16\v1.11\inc||$(LIBDIR)|C:\Program Files\Microchip\xc16\v1.11\lib||$(LKRDIR)||
+SOLK=<src>|A_to_D_Converter.c|Delay.s|DisplayRoutines.c|INTx_IO_pins.c|SPI_for_LCD.c|Timers.c|traps.c|UART.c|Main.c|Can.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -Map="$(BINDIR_)$(TARGETBASE).map" --report-mem
+TraceCmdString=
+DebugOptions=
+[File011]
+Location=D:\SM57_CADORET_FELLAH\Projet\Demo.hex
+Folder=Output
+DeviceName=dsPIC30F4011
+LanguageToolSuiteID={479DDE59-4D56-455E-855E-FFF59A3DB57E}
+LanguageToolID={433C3D55-811D-409D-A6BF-159CF9355B42}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-ld.exe
+PPAD=$(BINDIR)||$(TMPDIR)||$(AINDIR)|C:\Program Files\Microchip\xc16\v1.11\src\libm||$(INCDIR)|C:\Program Files\Microchip\xc16\v1.11\inc||$(LIBDIR)|C:\Program Files\Microchip\xc16\v1.11\lib||$(LKRDIR)||
+SOLK=<src>|A_to_D_Converter.c|Delay.s|DisplayRoutines.c|INTx_IO_pins.c|SPI_for_LCD.c|Timers.c|traps.c|UART.c|Main.c|Can.c||<obj>||<lib>||<lkr>||
+SuiteArgsString=
+ToolArgsString=-o"$(BINDIR_)$(TARGETBASE).$(TARGETSUFFIX)" -Map="$(BINDIR_)$(TARGETBASE).map" --report-mem
+TraceCmdString=
+DebugOptions=
+[TOOL_LOC_STAMPS]
+tool_loc{DE18EB1A-B46B-486B-B96F-A811A635DFAC}=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-as.exe
+tool_loc{069BD372-6CA0-40D4-BF2F-5DC806D05083}=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-gcc.exe
+tool_loc{433C3D55-811D-409D-A6BF-159CF9355B42}=C:\Program Files (x86)\Microchip\MPLAB C30\bin\pic30-ld.exe
