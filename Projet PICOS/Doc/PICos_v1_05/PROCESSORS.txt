@@ -1,0 +1,22 @@
+ ______________________________________________________________________
+>                                                                      <
+>                          PICos release 1.05                          <
+>                                                                      <
+>       PICOS - Real-time kernel for PIC24/PIC30/PIC33 families        <
+>                                                                      <
+>                                                                      <
+> www.picos18.com                                    www.pragmatec.net <
+>______________________________________________________________________<
+
+
+
+Here's a list of processors tested with this release:
+-----------------------------------------------------
+
+PIC30F6014
+PIC24FJ128GA010
+PIC24H128GA310
+PIC33FJ256GP710
+
+
+

@@ -1,0 +1,43 @@
+ ______________________________________________________________________
+>                                                                      <
+>                          PICos release 1.05                          <
+>                                                                      <
+>       PICOS - Real-time kernel for PIC24/PIC30/PIC33 families        <
+>                                                                      <
+>                                                                      <
+> www.picos18.com                                    www.pragmatec.net <
+>______________________________________________________________________<
+
+
+
+21th July 2006     - PICos release 1.05
+  * improvment     : Specific libraries for PIC24F.
+  * bug fixing     : int_man.c
+                     Copy kernelState variable only in USER mode.
+
+
+26th June 2006     - PICos release 1.04
+  * improvment     : PICosxx.o provided for each PIC 16 bits family.
+                     gld files also provided for such families.
+
+
+24th April 2006    - PICos release 1.03
+  * bug fixing     : pro_man.c
+                     Bug fixing in RR algorithm.
+
+
+17th February 2006 - PICos release 1.02
+  * bug fixing     : pro_man.c
+                     even_man.c
+                     Bug fixing in RR management.
+
+
+05th May 2005      - PICos release 1.01
+  * bug fixing     : pro_man.c
+                     Replace NULL by parserTCB in GetSpecificTCB.
+
+
+25th April 2005    - PICos release 1.00
+  * initial release
+
+

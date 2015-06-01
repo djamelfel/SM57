@@ -1,0 +1,19 @@
+ ______________________________________________________________________
+>                                                                      <
+>                          PICos release 1.05                          <
+>                                                                      <
+>       PICOS - Real-time kernel for PIC24/PIC30/PIC33 families        <
+>                                                                      <
+>                                                                      <
+> www.picos18.com                                    www.pragmatec.net <
+>______________________________________________________________________<
+
+
+
+PICos developers :
+------------------
+
+Xavier    Montagne      <xavier.montagne@pragmatec.net>
+Bertrand  ROZIER        <bertrand.rozier@pragmatec.net>
+Eric      Dallavecchia  
+
